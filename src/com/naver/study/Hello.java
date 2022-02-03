@@ -16,10 +16,14 @@ public class Hello {
 		int c =0;
 	
 		c= a + b;
-		//실수
-		//ss
+		
 		System.out.println(c);
 	
 	}
 
 }
+
+
+//자바는 컴퓨터 언어이다  친구들은 c c++ 파이선
+//자바스크립트는 자바가 아니다
+
