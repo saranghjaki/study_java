@@ -16,6 +16,7 @@ public class Hello {
 		int c =0;
 	
 		c= a + b;
+		//실수
 		
 		System.out.println(c);
 	
