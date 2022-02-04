@@ -106,7 +106,7 @@ public class Variable {
 		}else {
 			
 		}
-		
+//		System.out.println("bbb:"+bbb); //error
 	}
 
 }
