@@ -4,11 +4,11 @@ public class BooleanExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		boolean stop = true;
-		if(stop) {
-			System.out.println("중지합니다.");
+		boolean 남자 = false;
+		if(남자) {
+			System.out.println("구매가능합니다.");
 		}else {
-			System.out.println("시작합니다.");
+			System.out.println("구매할수없습니다.");
 		}
 	}
 
