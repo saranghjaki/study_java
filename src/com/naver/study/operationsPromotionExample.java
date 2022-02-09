@@ -53,8 +53,8 @@ public class operationsPromotionExample {
 	
 	short aaa =1;
 	short bbb=2;
-	short ccc =(aaa+ bbb);
-	System.out.println("ccc:"+ccc);
+	//short ccc =(aaa+ bbb);
+	//System.out.println("ccc:"+ccc);
 	
 	}
 	
