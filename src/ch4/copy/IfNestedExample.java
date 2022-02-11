@@ -5,7 +5,7 @@ public class IfNestedExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int score = 60;
+	/*	int score = 50;
 		String grade="";
 		if(score>=90) {
 			if(score>=95) {
@@ -29,22 +29,39 @@ public class IfNestedExample {
 			}
 		}
 		if(score>=60) {
-			if(score>=65) {
-				grade ="D+";
-			} else {
+		
 				grade ="D";
-			}
+		
 		}
-		if(score>=50) {
-			if(score>=50) {
-				grade ="F";
-			} else {
-				grade ="F";
+		else {
+			grade ="F";
 			}
-		}
+		
 
-		System.out.println("학점은 :"+grade);
+	System.out.println("학점은 :"+grade);
+*/
+		short x =2;
+		short y =-2;
+		String ss ="";
+		//(-1000<=x<=1000; x!=0)
+		if ((x>0) && (y>0)) {
+			ss="A";
+			
+		}else if ((x<0) && (y>0)) {
+			ss="B";
+			
+		}else if ((x<0) && (y<0)) {
+			ss="C";
+					}
+		else {
+		ss="D";
+		}
+		
+		System.out.println(ss+"("+x +y+")");
+		
 	}
-	}
+ }
+
+
 
 
