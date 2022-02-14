@@ -18,12 +18,22 @@ public class SwichExample {
 		int num5 = (int) (Math.random() *(45-1+1)+ 1);
 		int num6 = (int) (Math.random() *(45-1+1)+ 1);
 		
-		System.out.println("첫번째 주사위는"+num1+"입니다");
-		System.out.println("두번째 주사위는"+num2+"입니다");
-		System.out.println("두주사위의 합은"+ num3+"입니다");
-		System.out.println("첫번째 주사위는"+num4+"입니다");
-		System.out.println("두번째 주사위는"+num5+"입니다");
-		System.out.println("두주사위의 합은"+ num6+"입니다");
+		System.out.println("첫번째 숫자는"+num1+"입니다");
+		System.out.println("두번째 숫자는"+num2+"입니다");
+		System.out.println("세번째 숫자는"+ num3+"입니다");
+		System.out.println("네번째 숫자는"+num4+"입니다");
+		System.out.println("다섯번째 숫자는"+num5+"입니다");
+		System.out.println("여섯번째 숫자는"+ num6+"입니다");
+	
+//	swich
+//		case
+//		break
+//		default
+//		break
+		
+		
+//		
+//	
 	}
 
 }
