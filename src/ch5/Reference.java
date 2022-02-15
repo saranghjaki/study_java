@@ -23,14 +23,25 @@ public class Reference {
 		
 //		String: 문자열 저장을 위한 객체
 		String str1= null;
-		String str2= null;
+		String str2= "";
+		String str3;  //null로 초기화되어있음
 		
 		if(str1 == str2) { //주소값 비교
 			
 		}
 		str1.equals(str2); // 문자열비고
 	
-//		배열
+//		배열 :동일 데이터의 집합
+//		ex)1학년 2반 학생들의 수학 성적
+//     (15명) 78 44 90 97 100 ... 88(15개)
+//		int mathScore010201 = 78;
+//		int mathScore010202 = 88;
+//		int mathScore010203 = 90;
+//		이런 정보를 다 묶어보림
+		
+//영어 성적		int mathScore0102 = {78,44,90,97,...,100};
+//영어 수학		int mathScore0102 = {78,78},{44,90},{50,9},...,{100,50}};
+//		
 //			선언
 	}
 
