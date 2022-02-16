@@ -18,7 +18,7 @@ public class ArrayCreateByValueListExample1 {
 //		String[] strArray = {"허영수","신우진"};
 //		데이터 타입이 동일해야함
 //		순서는 무조건 0부터 시작한다.index{0,1,2,3}
-//		총객수를 원할하게 늘릴수있다
+//		총갯수를 원할하게 늘릴수 없다
 
 		int[] score = {83,90,87,99};
 		double[] score6 = {1,2,3,4};
