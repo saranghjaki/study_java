@@ -4,7 +4,7 @@ public class ThirdCarExample {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		ThirdCar ThirdCar1 =new ThirdCar();
+		ThirdCar ThirdCar1 =new ThirdCar(); //생성되서 인스터스라고함
 		System.out.println("ThirdCar.company"+ThirdCar1.company);
 	
 

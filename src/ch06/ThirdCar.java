@@ -2,7 +2,7 @@ package ch06;
 
 public class ThirdCar {
 // 필드
-	 String company ="현대자동차";
+	 String company ="현대자동차"; 
 	 String color;
 	 String model;
 	 int maxspeed;
