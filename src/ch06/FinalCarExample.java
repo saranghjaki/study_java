@@ -5,7 +5,7 @@ public class FinalCarExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		FinalCar finalCar =new FinalCar();
-		
+		finalCar.setSpeed(500);
 		//잘못된 속도변경
 		finalCar.setSpeed(-50);
 		System.out.println("현재속도:"+finalCar.getSpeed());
