@@ -5,6 +5,9 @@ public class MyfriendDerailInfoExample {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		MyfriendDerailInfo myfriendDerailInfo =new MyfriendDerailInfo();
+	
+	myfriendDerailInfo.setName("이순신");
+
+	
 	}
-	myfriendDerailInfo.setname("이순신")
 }
