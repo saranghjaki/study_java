@@ -1,5 +1,6 @@
 package com.naver.study.ch07.banana;
 
+
 class BananaChildDefault extends Banana{
 
 	public String strBananaChildDefault = "strBananaChildDefault";

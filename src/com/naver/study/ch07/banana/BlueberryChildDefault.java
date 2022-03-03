@@ -1,5 +1,6 @@
 package com.naver.study.ch07.banana;
 
+
 class BlueberryChildDefault extends Blueberry{
 	public String strBlueberryChildDefault = "strBlueberryChildDefault";
 	protected String strBlueberryChildDefault2 = "strBlueberryChildDefault2";
