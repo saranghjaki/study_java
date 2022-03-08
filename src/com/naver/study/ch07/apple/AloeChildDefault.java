@@ -1,4 +1,4 @@
-package com.naver.study.ch07 apple;;
+package com.naver.study.ch07 apple;
 
 class AloeChildDefault extends Aloe{
 
