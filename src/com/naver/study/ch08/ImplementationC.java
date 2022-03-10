@@ -4,19 +4,19 @@ public class ImplementationC implements InterFaceC {
 
 	@Override
 	public void methodA() {
-	 System.out.println("methodA");
+	 System.out.println("ImplementationC-methodA() 실행");
 
 	}
 
 	@Override
 	public void methodB() {
-		 System.out.println("methodB");
+		 System.out.println("Implementation-methodB() 실행");
 
 	}
 
 	@Override
 	public void methodC() {
-		 System.out.println("methoC");
+		 System.out.println("Implementation-methodC() 실행");
 
 	}
 
