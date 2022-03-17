@@ -1,19 +1,17 @@
-package com.naver.study.ch08;
+package com.naver.study.test;
 
 public class Television implements RemoteControl {
-
 	private int volume;
-
+	
 	@Override
 	public void turnOn() {
-		// TODO Auto-generated method stub
 		System.out.println("TV를 켭니다");
 	}
 
 	@Override
 	public void turnOff() {
-		// TODO Auto-generated method stub
 		System.out.println("TV를 끕니다");
+
 	}
 
 	@Override
@@ -27,5 +25,4 @@ public class Television implements RemoteControl {
 			
 		}System.out.println("현재 TV볼륨:"+ this.volume);	
 	}
-
 }
